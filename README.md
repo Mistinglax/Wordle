@@ -1,0 +1,2 @@
+# Wordle
+Statistical Learning: Wordle
